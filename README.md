@@ -1,5 +1,6 @@
 # Snake2 The Game!
 
+![snake2](https://github.com/Ga1axyKid/Snake2/assets/99396521/b6819a4a-13c4-44a6-b69d-2e7b85416aab)
 
 
 # Info
